@@ -49,14 +49,14 @@ public class MenuBar extends JMenuBar {
 		
 		add(file);
 		
-		help = new JMenu("Help");
-		
-		JMenuItem about = new JMenuItem("About");
-		about.addActionListener(l->JOptionPane.showMessageDialog(null, "Version: " + BlossomsPoGoManager.VERSION + "\n\nAuthor: Corrie 'Blossom' Kay\n\nThis work is protected under the\nCreative Commons Attribution-\nNonCommercial-ShareAlike 4.0\nInternational license, which can\nbe found here:\nhttps://creativecommons.org/\nlicenses/by-nc-sa/4.0/\n\nThanks to Grover for providing\nsuch a great API.\n\nThanks for Draseart for\nthe icon art.", "About Blossom's Pokémon Go Manager", JOptionPane.PLAIN_MESSAGE));
-		
-		help.add(about);
-		
-		add(help);
+//		help = new JMenu("Help");
+//
+//		JMenuItem about = new JMenuItem("About");
+//		about.addActionListener(l->JOptionPane.showMessageDialog(null, "Version: " + BlossomsPoGoManager.VERSION + "\n\nAuthor: Corrie 'Blossom' Kay\n\nThis work is protected under the\nCreative Commons Attribution-\nNonCommercial-ShareAlike 4.0\nInternational license, which can\nbe found here:\nhttps://creativecommons.org/\nlicenses/by-nc-sa/4.0/\n\nThanks to Grover for providing\nsuch a great API.\n\nThanks for Draseart for\nthe icon art.", "About Blossom's Pokémon Go Manager", JOptionPane.PLAIN_MESSAGE));
+//
+//		help.add(about);
+//
+//		add(help);
 	}
 	
 	private void logout() throws Exception {

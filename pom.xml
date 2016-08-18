@@ -3,8 +3,8 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <modelVersion>4.0.0</modelVersion>
-  <groupId>PokeGoBot</groupId>
-  <artifactId>PokeGoBot</artifactId>
+  <groupId>PokeGoManager</groupId>
+  <artifactId>PokeGoManager</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
     <sourceDirectory>src</sourceDirectory>

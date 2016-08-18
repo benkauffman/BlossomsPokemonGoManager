@@ -22,7 +22,7 @@ $RECYCLE.BIN/
 # IntelliJ files
 .idea/
 /out/
-PokeGoBot.iml
+*.iml
 
 # =========================
 # Operating System Files
