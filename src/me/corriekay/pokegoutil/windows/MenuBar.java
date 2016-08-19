@@ -88,7 +88,7 @@ public class MenuBar extends JMenuBar {
                 "Version: " + BlossomsPoGoManager.VERSION
                         + "\n"
                         + "\nAuthor: Corrie 'Blossom' Kay"
-                        + "\nCollaborators: Wolfsblvt, Ljay,"
+                        + "\nCollaborators: Krashid, Wolfsblvt, Ljay,"
                         + "\nnaderki, wullxz, Cryptically, "
                         + "\neralpsahin, weblue, edysantosa,"
                         + "\ndylanpdx, michael-smith-versacom"
